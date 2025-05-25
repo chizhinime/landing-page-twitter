@@ -1,6 +1,6 @@
-# Twitter Clone with React.js (Next.js, Tailwind CSS)
+# Twitter Landing Page with React.js (Next.js, Tailwind CSS)
 
-This is a Twitter clone project built with React.js, Next.js, and Tailwind CSS. It aims to replicate some of the core features of Twitter, including user authentication, posting tweets, deleting tweets, viewing others' tweets, and interacting with them through likes and comments.
+This is a Twitter Landing Page project built with React.js, Next.js, and Tailwind CSS. It aims to replicate some of the core features of Twitter, including user authentication, posting tweets, deleting tweets, viewing others' tweets, and interacting with them through likes and comments.
 
 ## Features
 
